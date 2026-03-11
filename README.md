@@ -12,7 +12,9 @@ I'm Alexis. I'm an indie hacker, based in Brazil, born and raised in France.
 ![Codex](https://img.shields.io/badge/Codex-555?style=flat&logo=openai&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### My projects
@@ -25,6 +27,9 @@ I'm Alexis. I'm an indie hacker, based in Brazil, born and raised in France.
 
 ### Reach me
 
-[![Follow](https://img.shields.io/badge/Follow-555?style=flat&logo=github)](https://github.com/alnah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alnah)
-[![X](https://img.shields.io/badge/@__alnah-555?style=flat&logo=x&logoColor=white)](https://x.com/_alnah)
+[![GitHub](https://img.shields.io/badge/GitHub-555?style=flat&logo=github&logoColor=white)](https://github.com/alnah/)
+[![X](https://img.shields.io/badge/X-555?style=flat&logo=x&logoColor=white)](https://x.com/_alnah)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/alnah.bsky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@alnah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alnah/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alexis.nahan@gmail.com)
