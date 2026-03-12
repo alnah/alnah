@@ -19,11 +19,11 @@ I'm Alexis. I'm an indie hacker, based in Brazil, born and raised in France.
 
 ### Projects
 
-**[go-md2pdf](https://github.com/alnah/go-md2pdf)** · Go library and CLI for Markdown-to-PDF conversion using headless Chrome, with cover pages, table of contents, built-in themes, and parallel batch processing.
-
-**[go-transcript](https://github.com/alnah/go-transcript)** · Go CLI to record, transcribe, and restructure audio into Markdown with microphone or loopback capture, automatic chunking, parallel transcription, and template-based formatting.
-
-**[things-agent](https://github.com/alnah/things-agent)** · AI-first Go CLI for operating Things 3 on macOS through AppleScript and the official URL Scheme, with constrained agent workflows and no direct SQLite access in normal operations.
+| Project | Description |
+| --- | --- |
+| **[go-md2pdf](https://github.com/alnah/go-md2pdf)** | Go library and CLI for Markdown-to-PDF conversion using headless Chrome, with cover pages, table of contents, built-in themes, and parallel batch processing. |
+| **[go-transcript](https://github.com/alnah/go-transcript)** | Go CLI to record, transcribe, and restructure audio into Markdown with microphone or loopback capture, automatic chunking, parallel transcription, and template-based formatting. |
+| **[things-agent](https://github.com/alnah/things-agent)** | AI-first Go CLI for operating Things 3 on macOS through AppleScript and the official URL Scheme, with constrained agent workflows and no direct SQLite access in normal operations. |
 
 ### Reach me
 
