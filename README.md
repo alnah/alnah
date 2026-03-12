@@ -1,5 +1,7 @@
 # What's up?
 
+## Who am I?
+
 I'm Alexis. I'm an indie hacker, based in Brazil, born and raised in France.
 
 > I build to solve my own problems. I work as a French teacher, and I love programming. I share my solutions through GitHub. I am currently enjoying the AI changes in the industry, which allow me to create things I could never do alone without a team or a lot of money. I am also very interested in the new challenges it creates, dealing with security, collaboration, products, services, the job market, and many more!
