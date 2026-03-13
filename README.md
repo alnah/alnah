@@ -19,9 +19,6 @@ I'm an indie hacker, based in Brazil, born and raised in France.
 
 ### Projects
 
-**[homebrew-tap](https://github.com/alnah/homebrew-tap)**<br>
-My Homebrew tap for distributing and sharing my CLI tools and future macOS packages.
-
 **[picoloom](https://github.com/alnah/picoloom)**<br>
 Go library and CLI for Markdown-to-PDF conversion using headless Chrome, with cover pages, table of contents, built-in themes, and parallel batch processing.
 
@@ -30,6 +27,9 @@ Go CLI to record, transcribe, and restructure audio into Markdown with microphon
 
 **[things-agent](https://github.com/alnah/things-agent)**<br>
 AI-first Go CLI for operating Things 3 on macOS through AppleScript and the official URL Scheme, with constrained agent workflows and no direct SQLite access in normal operations.
+
+**[homebrew-tap](https://github.com/alnah/homebrew-tap)**<br>
+My Homebrew tap for distributing and sharing my CLI tools and future macOS packages.
 
 ### Reach me
 
