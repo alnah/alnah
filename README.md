@@ -31,3 +31,7 @@ AI-first Go CLI for operating Things 3 on macOS through AppleScript and the offi
 ### Reach me
 
 [GitHub](https://github.com/alnah/) · [X](https://x.com/_alnah) · [Bluesky](https://bsky.app/profile/alnah.bsky.social) · [Mastodon](https://mastodon.social/@alnah) · [LinkedIn](https://www.linkedin.com/in/alnah/) · [Email](mailto:alexis.nahan@gmail.com)
+
+## Support me
+
+<iframe src="https://github.com/sponsors/alnah/button" title="Sponsor alnah" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
