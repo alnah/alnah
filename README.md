@@ -34,4 +34,4 @@ AI-first Go CLI for operating Things 3 on macOS through AppleScript and the offi
 
 ## Support me
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/alnah)
+[![Sponsor](https://img.shields.io/badge/Sponsor-111111?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/alnah)
