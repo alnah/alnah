@@ -19,7 +19,7 @@ I'm an indie hacker, based in Brazil, born and raised in France.
 
 ### Projects
 
-**[go-md2pdf](https://github.com/alnah/go-md2pdf)**<br>
+**[Picoloom](https://github.com/alnah/picoloom)**<br>
 Go library and CLI for Markdown-to-PDF conversion using headless Chrome, with cover pages, table of contents, built-in themes, and parallel batch processing.
 
 **[go-transcript](https://github.com/alnah/go-transcript)**<br>
