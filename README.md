@@ -28,7 +28,7 @@ tmux workboard plugin for agent panes with a popup board, pane preview, theme pi
 **[things-agent](https://github.com/alnah/things-agent)**<br>
 AI-first Go CLI for operating Things 3 on macOS through AppleScript and the official URL Scheme, with constrained agent workflows and no direct SQLite access in normal operations.
 
-**[go-transcript](https://github.com/alnah/go-transcript)**<br>
+**[transcript](https://github.com/alnah/transcript)**<br>
 Go CLI to record, transcribe, and restructure audio into Markdown with microphone or loopback capture, automatic chunking, parallel transcription, and template-based formatting.
 
 **[homebrew-tap](https://github.com/alnah/homebrew-tap)**<br>
