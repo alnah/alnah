@@ -22,14 +22,17 @@ I'm an indie hacker, based in Brazil, born and raised in France.
 **[picoloom](https://github.com/alnah/picoloom)**<br>
 Go library and CLI for Markdown-to-PDF conversion using headless Chrome, with cover pages, table of contents, built-in themes, and parallel batch processing.
 
-**[go-transcript](https://github.com/alnah/go-transcript)**<br>
-Go CLI to record, transcribe, and restructure audio into Markdown with microphone or loopback capture, automatic chunking, parallel transcription, and template-based formatting.
+**[panefleet](https://github.com/alnah/panefleet)**<br>
+tmux workboard plugin for agent panes with a popup board, pane preview, theme picker, and state detection for Codex, Claude Code, OpenCode, and shell panes.
 
 **[things-agent](https://github.com/alnah/things-agent)**<br>
 AI-first Go CLI for operating Things 3 on macOS through AppleScript and the official URL Scheme, with constrained agent workflows and no direct SQLite access in normal operations.
 
+**[go-transcript](https://github.com/alnah/go-transcript)**<br>
+Go CLI to record, transcribe, and restructure audio into Markdown with microphone or loopback capture, automatic chunking, parallel transcription, and template-based formatting.
+
 **[homebrew-tap](https://github.com/alnah/homebrew-tap)**<br>
-My Homebrew tap for distributing and sharing my CLI tools and future macOS packages.
+My Homebrew tap for distributing and sharing my tools.
 
 ### Reach me
 
