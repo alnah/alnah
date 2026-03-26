@@ -21,11 +21,11 @@ I'm a developer and a French teacher. I help people learn or teach French as a f
 
 **[Picoloom](https://github.com/alnah/picoloom)** is a small, and opinionated Go library and CLI for Markdown to PDF.
 
-**[panefleet](https://github.com/alnah/panefleet)** is a tmux workboard plugin for coding agents with state detection.
+**[Panefleet](https://github.com/alnah/panefleet)** is a tmux workboard plugin for coding agents with state detection.
 
-**[things-agent](https://github.com/alnah/things-agent)** is a Go CLI designed to be used by a coding agent to interact with Things 3.
+**[Things-Agent](https://github.com/alnah/things-agent)** is a Go CLI designed to be used by a coding agent to interact with Things 3.
 
-**[homebrew-tap](https://github.com/alnah/homebrew-tap)** is my Homebrew tap for distributing and sharing my tools.
+**[Homebrew-Tap](https://github.com/alnah/homebrew-tap)** is my Homebrew tap for distributing and sharing my tools.
 
 ### Reach me
 
