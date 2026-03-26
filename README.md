@@ -1,8 +1,8 @@
 ## Hi, I'm Alexis
 
-I'm an indie hacker, based in Brazil, born and raised in France.
+I'm a developer and a French teacher. I help people learn or teach French as a foreign language using technology.
 
-> I build to solve my own problems. I work as a French teacher, and I love programming. I share my solutions through GitHub. I am currently enjoying the AI changes in the industry, which allow me to create things I could never do alone without a team or a lot of money. I am also very interested in the new challenges it creates, dealing with security, collaboration, products, services, the job market, and many more!
+> I maintain a [blog](https://alnah.me) where I share tools, ideas, and resources for learning and teaching French through programming and agentic workflows. I build things to solve problems I face as a language learner, as a French teacher, and for students learning French as well.
 
 ### Tools
 
@@ -19,20 +19,13 @@ I'm an indie hacker, based in Brazil, born and raised in France.
 
 ### Projects
 
-**[picoloom](https://github.com/alnah/picoloom)**<br>
-Go library and CLI for Markdown-to-PDF conversion using headless Chrome, with cover pages, table of contents, built-in themes, and parallel batch processing.
+**[Picoloom](https://github.com/alnah/picoloom)** is a small, and opinionated Go library and CLI for Markdown to PDF.
 
-**[panefleet](https://github.com/alnah/panefleet)**<br>
-tmux workboard plugin for agent panes with a popup board, pane preview, theme picker, and state detection for Codex, Claude Code, OpenCode, and shell panes.
+**[panefleet](https://github.com/alnah/panefleet)** is a tmux workboard plugin for coding agents with state detection.
 
-**[things-agent](https://github.com/alnah/things-agent)**<br>
-AI-first Go CLI for operating Things 3 on macOS through AppleScript and the official URL Scheme, with constrained agent workflows and no direct SQLite access in normal operations.
+**[things-agent](https://github.com/alnah/things-agent)** is a Go CLI designed to be used by a coding agent to interact with Things 3.
 
-**[transcript](https://github.com/alnah/transcript)**<br>
-Go CLI to record, transcribe, and restructure audio into Markdown with microphone or loopback capture, automatic chunking, parallel transcription, and template-based formatting.
-
-**[homebrew-tap](https://github.com/alnah/homebrew-tap)**<br>
-My Homebrew tap for distributing and sharing my tools.
+**[homebrew-tap](https://github.com/alnah/homebrew-tap)** is my Homebrew tap for distributing and sharing my tools.
 
 ### Reach me
 
