@@ -9,7 +9,7 @@ I'm a developer and a French teacher. I help people learn or teach French as a f
 ![macOS](https://img.shields.io/badge/macOS-111111?style=flat-square&logo=apple&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/Ghostty-111111?style=flat-square&logo=ghostty&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-111111?style=flat-square&logo=gnubash&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square)
+![Pi](https://img.shields.io/badge/Pi-111111?style=flat-square)
 ![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
@@ -21,7 +21,7 @@ I'm a developer and a French teacher. I help people learn or teach French as a f
 
 **[Picoloom](https://github.com/alnah/picoloom)** is a small, and opinionated Go library and CLI for Markdown to PDF.
 
-**[Panefleet](https://github.com/alnah/panefleet)** is a tmux workboard plugin for coding agents with state detection.
+**[Agent](https://github.com/alnah/agent)** is my Pi config with extensions, skills, prompts, themes, and context files.
 
 **[Things-Agent](https://github.com/alnah/things-agent)** is a Go CLI designed to be used by a coding agent to interact with Things 3.
 
