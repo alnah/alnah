@@ -19,6 +19,8 @@ I'm a developer and a French teacher. I help people learn or teach French as a f
 
 ### Projects
 
+**[Ogmi](https://github.com/alnah/ogmi)** is a CLI that queries structured language-learning descriptors and returns JSON data.
+
 **[Picoloom](https://github.com/alnah/picoloom)** is a small, and opinionated Go library and CLI for Markdown to PDF.
 
 **[Agent](https://github.com/alnah/agent)** is my Pi config with extensions, skills, prompts, themes, and context files.
