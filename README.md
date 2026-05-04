@@ -19,7 +19,9 @@ I'm a developer and a French teacher. I help people learn or teach French as a f
 
 ### Projects
 
-**[Ogmi](https://github.com/alnah/ogmi)** is a CLI that queries structured language-learning descriptors and returns JSON data.
+**[Ogmi](https://github.com/alnah/ogmi)** is a CLI that queries structured language-learning descriptors and returns JSON.
+
+**[Moth](https://github.com/alnah/moth)** is a CLI made to discover, fetch, extract, transcribe, and normalize web and media content as JSON.
 
 **[Picoloom](https://github.com/alnah/picoloom)** is a small, and opinionated Go library and CLI for Markdown to PDF.
 
