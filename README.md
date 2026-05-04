@@ -23,7 +23,7 @@ I'm a developer and a French teacher. I help people learn or teach French as a f
 
 **[Moth](https://github.com/alnah/moth)** is a CLI made to discover, fetch, extract, transcribe, and normalize web and media content as JSON.
 
-**[Picoloom](https://github.com/alnah/picoloom)** is a small, and opinionated Go library and CLI for Markdown to PDF.
+**[Picoloom](https://github.com/alnah/picoloom)** is a small, and opinionated Go library and CLI for Markdown to PDF conversion.
 
 **[Agent](https://github.com/alnah/agent)** is my Pi config with extensions, skills, prompts, themes, and context files.
 
