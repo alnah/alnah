@@ -2,7 +2,7 @@
 
 I'm a developer and a French teacher. I help people learn or teach French as a foreign language using technology.
 
-> I am starting to maintain a [blog](https://alnah.me) where I share tools, ideas, and resources for learning and teaching French thanks to programming and agentic workflows.
+I'm starting to maintain a [blog](https://alnah.me) where I share tools, ideas, and resources for learning and teaching French thanks to programming and agentic workflows.
 
 ### Tools
 
