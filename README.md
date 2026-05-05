@@ -2,7 +2,7 @@
 
 I'm a developer and a French teacher. I help people learn or teach French as a foreign language using technology.
 
-> I maintain a [blog](https://alnah.me) where I share tools, ideas, and resources for learning and teaching French through programming and agentic workflows. I build things to solve problems I face as a language learner, as a French teacher, and for students learning French as well.
+> I am starting to maintain a [blog](https://alnah.me) where I share tools, ideas, and resources for learning and teaching French thanks to programming and agentic workflows.
 
 ### Tools
 
@@ -27,10 +27,8 @@ I'm a developer and a French teacher. I help people learn or teach French as a f
 
 **[Agent](https://github.com/alnah/agent)** is my Pi config with extensions, skills, prompts, themes, and context files.
 
-**[Things-Agent](https://github.com/alnah/things-agent)** is a Go CLI designed to be used by a coding agent to interact with Things 3.
-
 **[Homebrew-Tap](https://github.com/alnah/homebrew-tap)** is my Homebrew tap for distributing and sharing my tools.
 
 ### Reach me
 
-[GitHub](https://github.com/alnah/) · [X](https://x.com/_alnah) · [Bluesky](https://bsky.app/profile/alnah.bsky.social) · [Mastodon](https://mastodon.social/@alnah) · [LinkedIn](https://www.linkedin.com/in/alnah/) · [Email](mailto:alexis.nahan@gmail.com)
+[GitHub](https://github.com/alnah/) · [X](https://x.com/_alnah) · [LinkedIn](https://www.linkedin.com/in/alnah/) · [Email](mailto:alexis.nahan@gmail.com)
