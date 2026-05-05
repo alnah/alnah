@@ -19,7 +19,7 @@ I'm starting to maintain a [blog](https://alnah.me) where I share tools, ideas, 
 
 ### Projects
 
-**[Ogmi](https://github.com/alnah/ogmi)** is a CLI that queries structured language-learning descriptors and returns JSON.
+**[Ogmi](https://github.com/alnah/ogmi)** is a tiny CLI that queries language-learning CECR or curated descriptors and returns JSON data.
 
 **[Moth](https://github.com/alnah/moth)** is a CLI made to discover, fetch, extract, transcribe, and normalize web and media content as JSON.
 
